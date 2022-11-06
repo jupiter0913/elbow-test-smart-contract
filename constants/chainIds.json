@@ -1,0 +1,22 @@
+{
+  "ethereum": 1,
+  "bsc": 56,
+  "avalanche": 43114,
+  "polygon": 137,
+  "opera": 250,
+  "cronos": 25,
+  "arbitrumOne": 42161,
+  "optimisticEthereum": 10,
+  "hardhat": 1337,
+  "ropsten": 3,
+  "rinkeby": 4,
+  "goerli": 5,
+  "kovan": 42,
+  "bscTestnet": 97,
+  "fuji": 43113,
+  "mumbai": 80001,
+  "ftmTestnet": 4002,
+  "cronosTestnet": 338,
+  "arbitrumRinkeby": 421611,
+  "optimisticKovan": 69
+}

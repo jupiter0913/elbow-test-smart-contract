@@ -1,0 +1,21 @@
+{
+  "ethereum": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "bsc": "https://bsc-dataseed1.binance.org",
+  "avalanche": "https://api.avax.network/ext/bc/C/rpc",
+  "polygon": "https://polygon-rpc.com",
+  "opera": "https://rpc.ftm.tools",
+  "cronos": "https://evm.cronos.org",
+  "arbitrumOne": "https://rpc.ankr.com/arbitrum",
+  "optimisticEthereum": "https://mainnet.optimism.io",
+  "ropsten": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "rinkeby": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "goerli": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "kovan": "https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+  "bscTestnet": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+  "fuji": "https://api.avax-test.network/ext/bc/C/rpc",
+  "mumbai": "https://matic-mumbai.chainstacklabs.com",
+  "ftmTestnet": "https://rpc.testnet.fantom.network",
+  "cronosTestnet": "https://cronos-testnet-3.crypto.org:8545",
+  "arbitrumRinkeby": "https://rinkeby.arbitrum.io/rpc",
+  "optimisticKovan": "https://kovan.optimism.io/"
+}
