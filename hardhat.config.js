@@ -92,8 +92,13 @@ module.exports = {
     },
 
     rinkeby: {
-      url: ChainUri.rinkeby, // public infura endpoint
+      url: ChainUri.rinkeby,
       chainId: ChainId.rinkeby,
+      accounts: accounts(),
+    },
+    goerli: {
+      url: ChainUri.goerli,
+      chainId: ChainId.goerli,
       accounts: accounts(),
     },
     bscTestnet: {
